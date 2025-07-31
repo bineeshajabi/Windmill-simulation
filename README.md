@@ -1,4 +1,4 @@
-# Wind Turbine Yaw Control System – ESC700P Simulink Project
+# Wind Turbine Yaw Control System – Simulink Project
 
 This repository contains a MATLAB Simulink implementation of a **yaw control system for a wind turbine**, developed as part of the ESC700P/U – Electronic Sensing module at Queen Mary University of London.
 
