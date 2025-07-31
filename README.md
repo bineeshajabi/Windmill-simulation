@@ -24,3 +24,5 @@ The control system consists of two main parts:
 - **Bias compensator**: Eliminates constant sensor offset
 - **Integrator**: Converts angular velocity into yaw angle
 - **Feedback**: Feeds measured yaw angle back into the PID controller
+
+<img width="940" height="718" alt="windmill#" src="https://github.com/user-attachments/assets/41fbaa8f-ae97-4bbe-83a5-f3406d19e0a4" />
